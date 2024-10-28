@@ -18,8 +18,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashmit111&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Ashmit111&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashmit111&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Ashmit111&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashmit111&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -57,6 +57,10 @@
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
   <img width="18" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
 </div>
 
 ###
@@ -76,6 +80,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Ashmit111/Ashmit111/output/snake.svg" alt="Snake animation" />
+<h3 align="center">About Me :</h3>
+
+###
+
+<p align="left">🔭 Currently pursuing B.E. in Computer Science at Lokmanya Tilak College of Engineering (2022-2026).<br>🌱 Continuously improving skills in React and Solidity .<br>🤝 Participated in Smart India Hackathon 2024, developing a comprehensive job portal platform.<br>🚀 Passionate about Web development and exploring WEB3 technologies.</p>
 
 ###
